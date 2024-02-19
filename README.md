@@ -1,3 +1,6 @@
+Name: Jayakumar.B
+Reg.no: 212223040073
+
 # Ex. No:1b 			Study of Client Server Chat Applications
 
 ## Aim: 
